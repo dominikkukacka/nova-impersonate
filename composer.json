@@ -1,5 +1,5 @@
 {
-    "name": "kabbouchi/nova-impersonate",
+    "name": "dominikkukacka/nova-impersonate",
     "description": "A Laravel Nova field allows you to authenticate as your users.",
     "keywords": [
         "laravel",
